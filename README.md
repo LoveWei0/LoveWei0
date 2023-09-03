@@ -35,7 +35,4 @@ Here are some ideas to get you started:
 </p>
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
-
                 
-                  
-  著作权归 [LoveWei0](https://github.com/LoveWei0)作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
